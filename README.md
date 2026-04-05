@@ -50,12 +50,12 @@ Events, with Patient 50 recording 4 SAEs before passing away during the trial.
 Pillar 4: Site Performance
 - How many patients did each site enroll vs their target?
 - Which site had the highest number of missed visits?
-Key findings: All 8 research sites met their target enrollment exactly. However Memorial Cancer Center recorded the highest number of missed visits at 13 — partly attributed to having the largest patient enrollment at 20 patients. Atlantic Research Consortium performed best with only 3 missed visits.
+Key findings: All 8 research sites met their target enrollment exactly. However Memorial Cancer Center recorded the highest number of missed visits at 13, partly attributed to having the largest patient enrollment at 20 patients. Atlantic Research Consortium performed best with only 3 missed visits.
 
 Pillar 5: Data Quality
 - Which patients had a dose deviation flagged?
 - Which patients had their dose held and what arm are they in?
-Key findings: 12 patients had dose deviations flagged during the trial, all due to 25% dose reductions following Grade 3 adverse events. All deviations were properly documented and justified — reflecting good clinical practice and regulatory compliance.
+Key findings: 12 patients had dose deviations flagged during the trial, all due to 25% dose reductions following Grade 3 adverse events. All deviations were properly documented and justified, reflecting good clinical practice and regulatory compliance.
 
 
 About Me
