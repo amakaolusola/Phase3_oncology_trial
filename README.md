@@ -25,7 +25,7 @@ The database contains 6 interconnected tables:
  Pillar 1: Exploratory Clinical Analysis
 - Is there a difference in adverse event rates between male and female patients?
 - Do older patients experience more Grade 3 and Grade 4 adverse events?
-Key findings: Male patients recorded slightly more adverse events than female patients (92 vs 83) despite nearly equal enrollment numbers (61 males vs 59 females). Older patients experienced significantly more severe adverse events — patients aged 70 and above recorded 
+Key findings: Male patients recorded slightly more adverse events than female patients (92 vs 83) despite nearly equal enrollment numbers (61 males vs 59 females). Older patients experienced significantly more severe adverse events, patients aged 70 and above recorded 
 23 Grade 3/4 events compared to just 7 in patients under 60, highlighting the need for closer monitoring of elderly patients in oncology trials.
 
 
@@ -34,7 +34,7 @@ Pillar 2: Patient Retention
 - Which visit had the highest number of missed appointments?
 - Which patients missed 2 or more visits?
 Key findings: 45 out of 120 enrolled patients (37.5%) missed at least one scheduled visit. Missed visits peaked at Cycle 2 Day 1 with 
-32 missed appointments — further investigation confirmed that most of these were linked to active adverse events occurring around the
+32 missed appointments. Further investigation confirmed that most of these were linked to active adverse events occurring around the
 same time. 7 patients missed 2 or more visits, creating significant data gaps in the trial.
 
 Pillar 3: Safety Monitoring
@@ -42,7 +42,7 @@ Pillar 3: Safety Monitoring
 - What are the top 5 most frequently reported adverse events?
 - How many Grade 3 and Grade 4 events occurred across treatment arms?
 - Which patients experienced a Serious Adverse Event?
-Key findings: The top 5 most frequently reported adverse events were Alopecia, Peripheral Neuropathy, Fatigue, Rash and Neutropenia — all 
+Key findings: The top 5 most frequently reported adverse events were Alopecia, Peripheral Neuropathy, Fatigue, Rash and Neutropenia; all 
 clinically consistent with chemotherapy treatment in NSCLC trials. While the Investigational arm recorded more Grade 3 events (25 vs 13), 
 the Control arm recorded significantly more Grade 4 life-threatening events (12 vs 2). 8 patients experienced multiple Serious Adverse 
 Events, with Patient 50 recording 4 SAEs before passing away during the trial.
