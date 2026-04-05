@@ -38,8 +38,7 @@ order by severe_ae_count;
 /* Findings: Patients aged 70 and above recorded the highest number of Grade 3 and Grade 4 adverse events at 23, closely followed 
 by the 60-69 age group at 22. Patients under 60 recorded significantly fewer severe adverse events at just 7.
 This is likely due to older patients experiencing more severe adverse events when undergoing chemotherapy as a result  of reduced
-organ function and lower physiological reserves that come with age, making it harder for older patients to tolerate aggressive
-treatment.*/
+organ function that come with age, making it harder for older patients to tolerate aggressive treatment. It's something worth exploring*/
 
 -- ============================================================
 --PILLAR 2: PATIENT RETENTION
